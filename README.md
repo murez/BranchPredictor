@@ -1,4 +1,6 @@
 # TAGE_SC_L_32KB
+
+```
          _______________________________
         |  _______       _____ ______   |
 ---PC-->| |__   __|/\   / ____|  ____|  |--TAGE pridection of PC Confidence
@@ -12,7 +14,7 @@
         |                      |                    |            |
 ---PC-->|    Loop Predictor    |------------------->| Prediction |
         |______________________|                    |____________|
-
+```
 
 [The L-TAGE Branch Predictor](https://jilp.org/vol9/v9paper6.pdf)
 [A case for (partially)-tagged geometric history length predictors](https://jilp.org/vol8/v8paper1.pdf)
