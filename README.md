@@ -17,5 +17,7 @@
 ```
 
 [The L-TAGE Branch Predictor](https://jilp.org/vol9/v9paper6.pdf)
+
 [A case for (partially)-tagged geometric history length predictors](https://jilp.org/vol8/v8paper1.pdf)
+
 [TAGE-SC-L Branch Predictors](https://jilp.org/cbp2014/paper/AndreSeznec.pdf)
